@@ -47,7 +47,7 @@ ftp-data,20,sctp,FTP,[Randall_Stewart],[Randall_Stewart],,,[RFC4960],,,
 ftp,21,tcp,File Transfer Protocol [Control],[Jon_Postel],[Jon_Postel],,,[RFC959],,,Defined TXT keys: u=<username> p=<password> path=<path>
 ftp,21,udp,File Transfer Protocol [Control],[Jon_Postel],[Jon_Postel],,,[RFC959],,,Defined TXT keys: u=<username> p=<password> path=<path>
 ftp,21,sctp,FTP,[Randall_Stewart],[Randall_Stewart],,,[RFC4960],,,Defined TXT keys: u=<username> p=<password> path=<path>
-ssh""<<>>,22,tcp,The Secure Shell (SSH) Protocol,,,,,[RFC4251],,,Defined TXT keys: u=<username> p=<password>
+ssh,22,tcp,The Secure Shell (SSH) Protocol,,,,,[RFC4251],,,Defined TXT keys: u=<username> p=<password>
 ssh,22,udp,The Secure Shell (SSH) Protocol,,,,,[RFC4251],,,Defined TXT keys: u=<username> p=<password>
 ssh,22,sctp,SSH,[Randall_Stewart],[Randall_Stewart],,,[RFC4960],,,Defined TXT keys: u=<username> p=<password>
 telnet,23,tcp,Telnet,[Jon_Postel],[Jon_Postel],,,[RFC854],,,Defined TXT keys: u=<username> p=<password>
